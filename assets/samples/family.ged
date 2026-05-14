@@ -1,0 +1,32 @@
+0 HEAD
+1 SOUR flutter-genealogy-tree
+1 GEDC
+2 VERS 5.5.1
+0 @I1@ INDI
+1 NAME Henry /Tran/
+1 SEX M
+0 @I2@ INDI
+1 NAME Mary /Tran/
+1 SEX F
+0 @I3@ INDI
+1 NAME David /Tran/
+1 SEX M
+0 @I4@ INDI
+1 NAME Lisa /Tran/
+1 SEX F
+0 @I5@ INDI
+1 NAME Hau /Tran/
+1 SEX M
+0 @I6@ INDI
+1 NAME Anna /Tran/
+1 SEX F
+0 @F1@ FAM
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I3@
+0 @F2@ FAM
+1 HUSB @I3@
+1 WIFE @I4@
+1 CHIL @I5@
+1 CHIL @I6@
+0 TRLR
