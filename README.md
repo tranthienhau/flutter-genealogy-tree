@@ -2,6 +2,16 @@
 
 Flutter cross-platform family tree / genealogy app. Manage a family tree, track lineage, import data from CSV / XLS / GEDCOM, share with relatives.
 
+## Demo
+
+Real captures from the iOS Simulator (see [FLOW.md](FLOW.md) for how they are generated).
+
+| Family tree | Panned | Descendants |
+|---|---|---|
+| ![Family tree](screenshots/01-family-tree.png) | ![Panned](screenshots/02-tree-panned.png) | ![Descendants](screenshots/03-descendants.png) |
+
+![Demo](screenshots/demo.gif)
+
 ## Features
 
 - Family tree visualisation (multi-generation, pinch + pan)
